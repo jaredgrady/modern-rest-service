@@ -18,10 +18,6 @@ cd modern-rest-service && npm install
 
 Requires NodeJS 12 or later
 
-```
-Give examples
-```
-
 ## Running the tests
 
 Tests are ran using Mocha
