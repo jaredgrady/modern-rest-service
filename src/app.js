@@ -23,4 +23,4 @@ app.get('/', (req, res) => {
 })
 
 // Listen for traffic!
-app.listen(port, () => console.log(`Example app listening on port ${port}!`))
+app.listen(port, () => logger.info(`Example app listening on port ${port}!`))
